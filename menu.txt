@@ -1,0 +1,10 @@
+Beverages,cola,25.00
+Beverages,orange juice,20.00
+Beverages,mango juice,30.00
+Food,pasta,99.99
+Food,pizza,109.99
+Food,burger,99.99
+Desserts,ice cream,50.00
+Desserts,cake,20.00
+Desserts,brownie,30.00
+Desserts,pan cake,30.00
